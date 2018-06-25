@@ -244,7 +244,7 @@ a.navbar-brand img {
 }
 
 a.navbar-brand span {
-	color: #00a78e;
+	color: #ffffff;
 	font-weight: 100;
 	display: block;
 	font-size: 0.35em;
@@ -1318,15 +1318,15 @@ p.paragraph.two {
 }
 
 .grid_info_main:nth-child(2) {
-	margin-top: 5em;
+	margin-top: 0em;
 }
 
 .grid_info_main:nth-child(3) {
-	margin-top: 10em;
+	margin-top: 15em;
 }
 
 .grid_info.second {
-	margin-top: 1.5em;
+	margin-top: 5em;
 }
 
 /*-- //services --*/
